@@ -1,20 +1,3 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
-</div>
-
-
-<div id="badges">
-<a href="https://www.linkedin.com/in/yidnekachew-bantrga-801376234/"> 
-<img src="https://img.shields.io/badge/Linkedin----blue?logo=Linkedin&logoColor=white&style=for-the-badge">
-</a>
-<a href="https://www.youtube.com/@codewithyidne8847/about"> 
-<img src="https://img.shields.io/badge/Youtube----red?logo=Youtube&logoColor=red&style=for-the-badge"/>
-</a>
-<a href="https://www.facebook.com/yidnekachewbantrga.yidnekchewbantrga/">
-<img src="https://img.shields.io/badge/Facebook----blue?logo=Facebook&logoColor=white&style=for-the-badge"/>
-</a>
-</div>
-
 <h1>
 Selam, Hi There
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -32,7 +15,17 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 👀 I’m interested in Web development, competitive Programming and mobile App development
 - 🌱 I’m currently learning PHP, React-redux, nodjs and mongoDB
 - 💞️ I’m looking to collaborate on any Mern stack web development project and any python related project.
-
+### :telephone_receiver: Contact Me: <div id="badges">
+<a href="https://www.linkedin.com/in/yidnekachew-bantrga-801376234/"> 
+<img src="https://img.shields.io/badge/Linkedin----blue?logo=Linkedin&logoColor=white&style=for-the-badge">
+</a>
+<a href="https://www.youtube.com/@codewithyidne8847/about"> 
+<img src="https://img.shields.io/badge/Youtube----red?logo=Youtube&logoColor=red&style=for-the-badge"/>
+</a>
+<a href="https://www.facebook.com/yidnekachewbantrga.yidnekchewbantrga/">
+<img src="https://img.shields.io/badge/Facebook----blue?logo=Facebook&logoColor=white&style=for-the-badge"/>
+</a>
+</div> 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,10 +43,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
 
 
-
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yidne21&theme=dark&background=000000)](https://git.io/streak-stats)
 <!---
 Yidne21/Yidne21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
