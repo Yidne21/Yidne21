@@ -29,7 +29,6 @@ Selam, Hi There
 
 ### :man: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- I’m Yidne 
 - 👀 I’m interested in Web development, competitive Programming and mobile App development
 - 🌱 I’m currently learning PHP, React-redux, nodjs and mongoDB
 - 💞️ I’m looking to collaborate on any Mern stack web development project and any python related project.
