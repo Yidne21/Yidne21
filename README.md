@@ -11,9 +11,9 @@ Selam, Hi There, I'm Yidne
 
 
 ### :man: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- 👀 I’m interested in Web development, competitive Programming and mobile App development
-- 🌱 I’m currently learning PHP, React-redux, nodjs and mongoDB
+I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+- 👀 I’m interested in Web development, competitive Programming and mobile App development.
+- 🌱 I’m currently learning React-redux, nodjs, mongoDB and python.
 - 💞️ I’m looking to collaborate on any Mern stack project and any python related project.
 ### :telephone_receiver: Contact Me: <div id="badges">
 <a href="https://www.linkedin.com/in/yidnekachew-bantrga-801376234/"> 
