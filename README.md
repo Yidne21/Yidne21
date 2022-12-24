@@ -49,6 +49,8 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 
 ### :fire: My Stats :
+<img src="https://github-readme-stats.vercel.app/api?username=Yidne21&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yidne21&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
