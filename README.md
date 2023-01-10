@@ -17,7 +17,7 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 - 💞️ I’m looking to collaborate on any Mern stack project and any python related project.
 ### :telephone_receiver: Contact Me: <div id="badges">
 <a href="https://www.linkedin.com/in/yidnekachew-bantrga-801376234/"> 
-<img src="https://img.shields.io/badge/Linkedin----blue?logo=Linkedin&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Linkedin----blue?logo=Linkedin&logoColor=white&style=for-the-badge" height="100px" margin="20px">
 </a>
 <a href="https://www.youtube.com/@codewithyidne8847/about"> 
 <img src="https://img.shields.io/badge/Youtube----red?logo=Youtube&logoColor=red&style=for-the-badge"/>
