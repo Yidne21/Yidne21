@@ -3,7 +3,7 @@ Selam, Hi There, I'm Yidne
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Yidne21)](https://github.com/Yidne21)
 
 ### :man: About Me :
 I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
