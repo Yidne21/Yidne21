@@ -6,7 +6,7 @@ Selam, Hi There, I'm Yidne
 [![Profile Views](https://komarev.com/ghpvc/?username=Yidne21)](https://github.com/Yidne21)
 
 ### :man: About Me :
-I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+I am a Full stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 - 👀 I’m interested in Web development.
 - 🌱 I’m always eager to improve my skills and knowlages.
 - 💞️ I’m looking to collaborate on any Mern stack project and any python related project.
