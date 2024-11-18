@@ -7,7 +7,7 @@ Selam, Hi There, I'm Yidne
 
 ### :man: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in AI and Machine learning.
 - 🌱 I’m always eager to improve my skills and knowlages.
 - 💞️ I’m looking to collaborate on any projects.
 ### :telephone_receiver: Contact Me: <div id="badges">
